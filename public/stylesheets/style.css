@@ -1,0 +1,23 @@
+body {
+    padding: 50px;
+    color: white;
+    background-image: url("../images/Molab.png"); /*GeoPattern*/   
+}
+
+a {
+    color: #00B7FF;
+}
+
+.container {
+   /* font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;*/
+    color: black;
+    background: rgba(255, 255, 255, 0.35);
+    border-radius: 3px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    padding: 1.5em;
+}
+
+canvas {
+    width: 100%;
+    height: auto;
+}
